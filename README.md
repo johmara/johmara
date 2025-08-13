@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working my PhD thesis <br>🤝 I’m looking for colaborators and help with improving and maintaining the HAnS plugin<br>🌱 I’m currently learning abouthow we can use AI4SE<br>⚡ Fun fact I play handball and the guitar
 
-## 🌐 HAnS Community:
-[![Github]()]()
+## 🌐 Community:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7hgRnRnW9r)
 
 # 💻 Tech Stack:
