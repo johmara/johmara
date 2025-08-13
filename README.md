@@ -1,23 +1,72 @@
-# 💫 Hi there!
-🔭 I’m currently working my PhD thesis <br>🤝 I’m looking for colaborators and help with improving and maintaining the HAnS plugin<br>🌱 I’m currently learning about how we can use AI4SE<br>⚡ Fun fact I play handball and the guitar
+<h1 align="center">Hey 👋What's Up?</h1>
 
-## 🌐 Community:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7hgRnRnW9r)
+###
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=johmara&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=johmara&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johmara&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=johmara.johmara&"  />
+</div>
 
-# Projects deliverd:
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="60" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="60" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="60" alt="latex logo"  />
+</div>
 
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
----
-[![](https://visitcount.itsvg.in/api?id=johmara&icon=3&color=1)](https://visitcount.itsvg.in)
+<h2 align="left">💫 About Me:</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">🔭 I’m currently working my PhD thesis<br>🤝 I’m looking for colaborators and help with improving and maintaining the HAnS plugin<br>🌱 I’m currently learning abouthow we can use AI4SE<br>⚡ Fun fact I play handball and the guitar</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johmara&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johmara&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=johmara&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johmara&radius=16&theme=minimal&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">📽️ Projects delivered</h2>
+
+<div align="center">
+
+<!-- Row 1 --> <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+<!-- HAnS Plugin --> <div style="width: 300px;"> <a href="https://github.com/isselab/HAnS" target="_blank"> <img src="https://img.shields.io/badge/HAnS%20Plugin-JetBrains-blue?style=for-the-badge&logo=intellij-idea" alt="HAnS Plugin Badge" /> </a> <p style="font-size: 14px;">IntelliJ plugin for efficient software annotation, used in empirical studies and open source projects.</p> </div>
+
+<!-- Karinalsin.se --> <div style="width: 300px;"> <a href="https://karinalsin.se" target="_blank"> <img src="https://img.shields.io/badge/Karinalsin.se-WordPress-pink?style=for-the-badge&logo=wordpress" alt="Karinalsin Badge" /> </a> <p style="font-size: 14px;">Elegant WordPress-based portfolio for a visual artist, showcasing exhibitions and creative work.</p> </div>
+
+</div>
+
+<br>
+
+<!-- Row 2 --> <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+<!-- Saltholmen.nu --> <div style="width: 300px;"> <a href="https://saltholmen.nu" target="_blank"> <img src="https://img.shields.io/badge/Saltholmen.nu-WordPress-blueviolet?style=for-the-badge&logo=wordpress" alt="Saltholmen.nu Badge" /> </a> <p style="font-size: 14px;">Informational site for a marina, featuring booking info, local weather, and harbor details.</p> </div>
+
+<!-- johan.martinson.phd --> <div style="width: 300px;"> <a href="https://johan.martinson.phd" target="_blank"> <img src="https://img.shields.io/badge/JohanMartinson.phd-GitHub%20Pages-gray?style=for-the-badge&logo=github" alt="JohanMartinson Badge" /> </a> <p style="font-size: 14px;">Academic and professional portfolio highlighting my research, development, and publications.</p> </div>
+
+</div>
+
+</div>
