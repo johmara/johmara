@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working my PhD thesis <br>🤝 I’m looking for colaborators and help with improving and maintaining the HAnS plugin<br>🌱 I’m currently learning abouthow we can use AI4SE<br>⚡ Fun fact I play handball and the guitar
+# 💫 Hi there!
+🔭 I’m currently working my PhD thesis <br>🤝 I’m looking for colaborators and help with improving and maintaining the HAnS plugin<br>🌱 I’m currently learning about how we can use AI4SE<br>⚡ Fun fact I play handball and the guitar
 
 ## 🌐 Community:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7hgRnRnW9r)
@@ -10,6 +10,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=johmara&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=johmara&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johmara&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+# Projects deliverd:
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
