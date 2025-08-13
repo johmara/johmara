@@ -61,7 +61,7 @@
 
 <!-- Row 2 --> <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-<!-- Saltholmen.nu --> <div style="width: 300px;"> <a href="https://saltholmen.nu" target="_blank"> <img src="https://img.shields.io/badge/Saltholmen.nu-WordPress-blueviolet?style=for-the-badge&logo=wordpress" alt="Saltholmen.nu Badge" /> </a> <p style="font-size: 14px;">Informational site for a marina, featuring booking info, local weather, and harbor details.</p> </div>
+<!-- Saltholmen.nu --> <div style="width: 300px;"> <a href="https://saltholmen.nu" target="_blank"> <img src="https://img.shields.io/badge/Saltholmen.nu-WordPress-blueviolet?style=for-the-badge&logo=wordpress" alt="Saltholmen.nu Badge" /> </a> <p style="font-size: 14px;">Informational site for a boat owners association, featuring news from the board, membership pages, and harbor details.</p> </div>
 
 <!-- johan.martinson.phd --> <div style="width: 300px;"> <a href="https://johan.martinson.phd" target="_blank"> <img src="https://img.shields.io/badge/johan.martinson.phd-GitHub%20Pages-gray?style=for-the-badge&logo=github" alt="JohanMartinson Badge" /> </a> <p style="font-size: 14px;">Academic and professional portfolio highlighting my research, development, and publications.</p> </div>
 
